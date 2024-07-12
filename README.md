@@ -1,1 +1,1 @@
-<h2>Member Pairing.</h2>
+<h2>Member Pairing</h2>
